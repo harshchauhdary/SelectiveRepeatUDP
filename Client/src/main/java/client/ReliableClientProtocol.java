@@ -17,7 +17,7 @@ public class ReliableClientProtocol {
     static int lastack = 0, window = 100;
     static List<DatagramPacket> packets = new ArrayList<>();
 
-    static InetSocketAddress routerAddr = new InetSocketAddress("192.168.0.12", 3000);
+    static InetSocketAddress routerAddr = new InetSocketAddress("127.0.0.1", 3000);
 
     public static int connection(DatagramSocket socket, InetSocketAddress serverAddr) throws IOException {
         byte[] pck2 = new byte[1024];

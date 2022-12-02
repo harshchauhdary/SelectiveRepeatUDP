@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="048f7843-8882-4b8c-959b-c792caf1d382" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/ReliableClientProtocol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/Packet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/TimeoutBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CLient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/CLient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Httpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/Httpc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HttpcLib.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/harsh/Desktop/Client"
+    "last_opened_file_path": "/Users/harsh/Desktop/SelectiveRepeatProtocol/Client"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -128,6 +119,7 @@
       <workItem from="1668634145386" duration="603000" />
       <workItem from="1669838222720" duration="53435000" />
       <workItem from="1670017040674" duration="158000" />
+      <workItem from="1670019765496" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="everything">
       <created>1665382602067</created>
